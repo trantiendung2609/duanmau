@@ -1,0 +1,24 @@
+.article_list_product--link {
+  text-decoration: none;
+  color: black;
+}
+.article_list_product {
+  border-radius: 5px;
+}
+.article_list_product--link:hover {
+  text-decoration: none;
+  color: black;
+}
+.article_list_product {
+    height: 100%;
+    width: 100%;
+    border: 1px solid #333;
+    padding: 2rem;
+  }
+.article_list_product img {
+  width: 100%;
+}
+.article_list_product .article_list_product_information span {
+  font-size: 18px;
+  display: flex;
+}

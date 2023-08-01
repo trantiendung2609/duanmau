@@ -1,0 +1,46 @@
+/* list */
+.article_admin_list {
+  margin-top: 2rem;
+}
+tr th {
+  font-size: 20px;
+  text-align: center;
+}
+tr td {
+  font-size: 18px;
+  text-align: center;
+}
+
+.btn-edit,
+.btn-delete{
+  font-size: 18px;
+  padding: 10px 20px;
+  margin-left: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  cursor: pointer;
+  color: #333;
+  background-color: #fff;
+}
+.btn-edit:hover {
+  background-color: #0069d9;
+  border-color: #0062cc;
+  color: #fff;
+}
+
+.btn-delete:hover {
+  background-color: #d40b0b;
+  border-color: #d40b0b;
+}
+.btn-danger.focus,
+.btn-danger:focus {
+  box-shadow: none;
+}
+.btn-primary.focus,
+.btn-primary:focus {
+  box-shadow: none;
+}
+/* thống kê */
+.article_admin_thong_ke_binh_luan{
+  margin-top: 3rem;
+}

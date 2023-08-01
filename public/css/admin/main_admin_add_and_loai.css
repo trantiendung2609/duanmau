@@ -1,0 +1,46 @@
+/* add  and loai*/
+.form-group label {
+    font-size: 20px;
+    margin-top: 1rem;
+  }
+  .form-group input {
+    height: 4rem;
+    font-size: 18px;
+  }
+  .form-group select,
+  .form-group option {
+    height: 4rem;
+    font-size: 18px;
+  }
+  
+  .description {
+    height: 10rem !important;
+  }
+  button.btn {
+    padding: 10px 20px;
+    margin-left: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #333;
+    background-color: #fff;
+  }
+  
+  .btn-group-lg > .btn,
+  .btn-lg {
+    font-size: 18px;
+    padding: 10px 20px;
+    background-color: white;
+    color: #333;
+    border-radius: 5px;
+    margin-left: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .btn-secondary:hover a {
+    color: #fff;
+    text-decoration: none;
+  }
+  textarea.form-control {
+    font-size: 18px;
+  }
